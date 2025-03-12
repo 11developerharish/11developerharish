@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About Me 🧑‍💻:
 Hello, I'm HARISH B <br>     I'm currently working on "Building dynamic and responsive web application using HTML CSS JAVASCRIPT<br>and other modern technologies.<br><br><br>I'm looking to Collaborate on:<br>     Exciting web development projects, open-source contribution or Freelancer Opportunities <br>to enhance my skills and network.<br><br>I'm looking for help with:<br>     Optimizing website perfomance, Backend Development best practice, and learning advanced<br>Javascript frameworks.<br><br>I'm currently learning:<br>     Advanced backend technologies, API development, and improving my JAVA skills for Full-Stack Development.<br><br>Ask me about:<br>     Frontend development, UI/UX desig, Canva designing, Building interactive websites, and integrating database<br>with web applications.<br><br>Fun fact:<br>     I love solving complex coding challenge and experimenting with new web design trends to create<br>unique user experience!!!<br>    <br><br>
 
 
